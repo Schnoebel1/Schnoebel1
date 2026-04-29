@@ -1,19 +1,15 @@
-# Hey, I'm Nicolas
+# Hey, I'm Nicolas 👋
 
-> I know that I know nothing — building little tools around AI, automations and knowledge.
+Just a guy from Germany, building and learning in public.
 
-Business & IT student from Germany.
-Currently exploring AI-native workflows, visual process maps and local-first automation.
+### Current project
 
-### Current projects
+- 🗺️ **IcarusMap** — visual process maps for AI agents
 
-- **IcarusMap** — visual process maps for AI agents
-- personal knowledge systems
-- ⚙️ automation experiments
-- privacy-friendly / local-first AI workflows
+### The rest
+
+Mostly fun private repos, experiments and things I’m learning by building.
 
 ### I like
 
-simple tools · clean interfaces · open source · local-first systems · learning by building
-
-[LinkedIn](PASTE_LINK_HERE) · [IcarusMap](PASTE_REPO_LINK_HERE)
+simple tools · clean interfaces · open source · local-first systems · useful automation
